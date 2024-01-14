@@ -9,7 +9,7 @@ public class Product {
     // Public no-arg constructor
     public Product() {}
 
-    // Public Product arg constructor
+    // Public Product arg constructors
     public Product(int pId, String pName, String pDate, float pPrice, byte[] pimg) {
         setId(pId);
         setName(pName);
