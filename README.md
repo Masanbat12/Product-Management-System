@@ -3,6 +3,8 @@ The "Product Management System" is a Java-based application designed to manage p
  It is a versatile tool suitable for small to medium-sized businesses,
  providing functionalities to add, update, delete, and view product details.
  This system is compatible with SQL Workbench and phpMyAdmin, offering flexibility in database management.
+ I used pictures of cars as a products but it can be any other products.
+ (If you want to clone the project and use or to run it, Check the explanation in the Setup and Installation subsection).
  #### The project can be a component of a larger Customer Relationship Management (CRM) system, especially if integrated with customer data and sales processes.
 
 ## Key Highlights:
