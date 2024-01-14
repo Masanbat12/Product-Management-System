@@ -5,6 +5,19 @@ The "Product Management System" is a Java-based application designed to manage p
  This system is compatible with SQL Workbench and phpMyAdmin, offering flexibility in database management.
  #### The project can be a component of a larger Customer Relationship Management (CRM) system, especially if integrated with customer data and sales processes.
 
+## Key Highlights:
+
+#### Effective Object-Oriented Design: 
+The Product class, with its encapsulated fields and methods, exemplifies best practices in Java OOP, ensuring data integrity and system maintainability.
+#### Secure Database Interaction: 
+Utilization of PreparedStatement in ProductDAO for database operations, emphasizing my commitment to writing secure, SQL injection-proof code.
+#### Efficient Resource Management: 
+Demonstrated through the use of try-with-resources statements in ProductDAO, ensuring proper handling and release of database resources.
+
+##### CRUD = Create, Read, Update, and Delete
+#### CRUD Operations Mastery: 
+Implementation of essential CRUD functionalities, underscoring my skills in creating comprehensive data management applications.
+
 
 ## Features
 Database Connectivity: Connects to a SQL database to perform operations.
