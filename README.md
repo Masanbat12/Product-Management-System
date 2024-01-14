@@ -1,4 +1,4 @@
-# Product-Management-System-
+# Product-Management-System
 The "Product Management System" is a Java-based application designed to manage product information in a SQL database.
  It is a versatile tool suitable for small to medium-sized businesses,
  providing functionalities to add, update, delete, and view product details.
