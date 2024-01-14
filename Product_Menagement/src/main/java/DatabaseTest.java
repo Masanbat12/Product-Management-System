@@ -6,8 +6,8 @@ public class DatabaseTest {
     public static void main(String[] args) {
         // Database connection parameters
         String jdbcUrl = "jdbc:mysql://localhost:3306/sakila?serverTimezone=UTC&useSSL=false&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&zeroDateTimeBehavior=CONVERT_TO_NULL";
-        String username = "masan";
-        String password = "19961996m";
+        String username = ""; // add here your own username 
+        String password = ""; // add here your own password 
 
         // Create a connection
         try {
