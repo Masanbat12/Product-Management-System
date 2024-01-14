@@ -40,7 +40,7 @@ public class ProductForm extends javax.swing.JFrame {
     public Connection getConnection() {
         Connection con = null;
         try {
-            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/sakila?serverTimezone=UTC&useSSL=false&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&zeroDateTimeBehavior=CONVERT_TO_NULL", "masan", "19961996m");
+            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/sakila?serverTimezone=UTC&useSSL=false&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&zeroDateTimeBehavior=CONVERT_TO_NULL", "username", "password"); // Add here your own username and password 
             JOptionPane.showMessageDialog(null, "connected");
             return con;
         } catch (SQLException ex) {
